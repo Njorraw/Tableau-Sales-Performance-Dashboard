@@ -1,0 +1,11 @@
+Date,Region,Sales Rep,Product Category,Product,Units Sold,Unit Price,Total Sales
+1/15/2024,East,Alice Kimani,Electronics,Smartphone,20,500,10000
+1/20/2024,West,Brian Otieno,Furniture,Office Desk,5,200,1000
+2/5/2024,East,Alice Kimani,Electronics,Laptop,10,1000,10000
+2/18/2024,Central,Mercy Njoroge,Office Supplies,Printer Ink,30,25,750
+3/10/2024,South,John Mwangi,Furniture,Chair,15,75,1125
+3/15/2024,East,Alice Kimani,Electronics,Tablet,25,600,15000
+4/1/2024,West,Brian Otieno,Furniture,Sofa,8,150,1200
+4/10/2024,Central,Mercy Njoroge,Office Supplies,Printer Paper,40,20,800
+4/15/2024,South,John Mwangi,Furniture,Couch,12,300,3600
+5/1/2024,East,Alice Kimani,Electronics,Smartwatch,18,400,7200
